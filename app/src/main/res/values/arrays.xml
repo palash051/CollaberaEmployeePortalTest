@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="roles">
+        <item>ADMIN</item>
+        <item>ACCT_PAY</item>
+        <item>ACCT_RCV</item>
+        <item>EMP_BENEFITS</item>
+        <item>GEN_LEDGER</item>
+        <item>PAYROLL</item>
+        <item>INVENTORY</item>
+        <item>PRODUCTION</item>
+        <item>SALES</item>
+        <item>ORDERS</item>
+        <item>SHIPPING</item>
+    </array>
+    <array name="departments">
+        <item>--Select A Department--</item>
+        <item>Accounting</item>
+        <item>Sales</item>
+        <item>Plant</item>
+        <item>Shipping</item>
+        <item>Quality Control</item>
+    </array>
+</resources>
